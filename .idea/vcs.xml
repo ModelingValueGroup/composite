@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GithubSharedProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="master.*" />
+        <option value="develop.*" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DclareForMPS" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dclare" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dclareForJava" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/immutable-collections" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mvgJson" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/service-brainstorm" vcs="Git" />
+  </component>
+</project>

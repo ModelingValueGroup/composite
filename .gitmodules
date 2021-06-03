@@ -1,0 +1,18 @@
+[submodule "mvgJson"]
+	path = mvgJson
+	url = https://github.com/ModelingValueGroup/mvgJson.git
+[submodule "immutable-collections"]
+	path = immutable-collections
+	url = https://github.com/ModelingValueGroup/immutable-collections.git
+[submodule "dclare"]
+	path = dclare
+	url = https://github.com/ModelingValueGroup/dclare.git
+[submodule "dclareForJava"]
+	path = dclareForJava
+	url = https://github.com/ModelingValueGroup/dclareForJava.git
+[submodule "DclareForMPS"]
+	path = DclareForMPS
+	url = https://github.com/ModelingValueGroup/DclareForMPS.git
+[submodule "service-brainstorm"]
+	path = service-brainstorm
+	url = https://github.com/ModelingValueGroup/service-brainstorm.git
